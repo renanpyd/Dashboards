@@ -1,4 +1,4 @@
 # Dashboards
 ## Modelos de dashboards
 
-Esse repositório tem o propósito de armazenar modelos de dashboards em diversas ferramentas, demonstrando diferentes técnicas e modelos de uso.
+Esse repositório tem o propósito de apresentar modelos de dashboards em diversas plataformas, demonstrando diferentes técnicas e modelos para casos de uso.
